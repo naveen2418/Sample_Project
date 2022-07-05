@@ -207,7 +207,7 @@
               <repository>
                   <id>Release</id>
                   <name>Release</name>
-                      <url>http://43.204.212.57:9000//repository/Maven_Hosted/</url>
+                      <url>http://13.233.118.207:9000///repository/Maven_Hosted/</url>
               </repository>
               <snapshotRepository>
                   <id>Snapshot</id>

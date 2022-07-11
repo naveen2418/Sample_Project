@@ -207,12 +207,12 @@
               <repository>
                   <id>Release</id>
                   <name>Release</name>
-                      <url>http://13.127.226.58:9000//repository/Maven_Hosted/</url>
+                      <url>http://3.110.43.12:9000//repository/Maven_Hosted/</url>
               </repository>
               <snapshotRepository>
                   <id>Snapshot</id>
                   <name>Snapshot</name>
-                  <url>http://13.127.226.58:9000//repository/Maven2_HSnap/</url>
+                  <url>http://3.110.43.12:9000//repository/Maven2_HSnap/</url>
               </snapshotRepository>
  </distributionManagement>
 	
